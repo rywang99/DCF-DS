@@ -165,6 +165,7 @@ __pycache__
 
 # intermediate module outputs, downloaded data, models.
 .backup/
+.vscode/
 artifacts/
 data/
 embedding_raw/
